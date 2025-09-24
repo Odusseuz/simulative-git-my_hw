@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 homework
+=======
+This line was added in the master branch!
+>>>>>>> master
